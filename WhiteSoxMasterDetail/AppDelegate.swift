@@ -39,7 +39,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate, UISplitViewControllerDele
             
             masterController.objects.append(Player(number: number, firstName: firstName, lastName: lastName, position: position, bats: bats, throws: throws, height: height, weight: weight, DOB: DOB))
         }
-        masterController.objects.sort({$0.lastName<$1.lastName})
+        masterController.objects.sort({$0.lastName < $1.lastName || ($0.lastName == $1.lastName && $0.firstName < $1.firstName)})
         return true
     }
 

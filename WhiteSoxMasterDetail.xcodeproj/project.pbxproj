@@ -16,6 +16,8 @@
 		55BE9A571BDA016500FA9973 /* WhiteSoxMasterDetailTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55BE9A561BDA016500FA9973 /* WhiteSoxMasterDetailTests.swift */; };
 		55BE9A611BDA020900FA9973 /* Chicago White Sox.plist in Resources */ = {isa = PBXBuildFile; fileRef = 55BE9A601BDA020900FA9973 /* Chicago White Sox.plist */; };
 		55BE9A631BDA056B00FA9973 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55BE9A621BDA056B00FA9973 /* Player.swift */; };
+		55BE9A6B1BDA38B500FA9973 /* placeholder.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55BE9A6A1BDA38B500FA9973 /* placeholder.jpg */; };
+		55BE9A711BDA47D000FA9973 /* playerimages in Resources */ = {isa = PBXBuildFile; fileRef = 55BE9A701BDA47D000FA9973 /* playerimages */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +44,8 @@
 		55BE9A561BDA016500FA9973 /* WhiteSoxMasterDetailTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhiteSoxMasterDetailTests.swift; sourceTree = "<group>"; };
 		55BE9A601BDA020900FA9973 /* Chicago White Sox.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Chicago White Sox.plist"; sourceTree = "<group>"; };
 		55BE9A621BDA056B00FA9973 /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
+		55BE9A6A1BDA38B500FA9973 /* placeholder.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = placeholder.jpg; path = playerimages/placeholder.jpg; sourceTree = "<group>"; };
+		55BE9A701BDA47D000FA9973 /* playerimages */ = {isa = PBXFileReference; lastKnownFileType = folder; path = playerimages; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +93,7 @@
 				55BE9A421BDA016500FA9973 /* DetailViewController.swift */,
 				55BE9A601BDA020900FA9973 /* Chicago White Sox.plist */,
 				55BE9A441BDA016500FA9973 /* Main.storyboard */,
+				55BE9A6A1BDA38B500FA9973 /* placeholder.jpg */,
 				55BE9A471BDA016500FA9973 /* Images.xcassets */,
 				55BE9A491BDA016500FA9973 /* LaunchScreen.xib */,
 				55BE9A3C1BDA016500FA9973 /* Supporting Files */,
@@ -99,6 +104,7 @@
 		55BE9A3C1BDA016500FA9973 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				55BE9A701BDA47D000FA9973 /* playerimages */,
 				55BE9A3D1BDA016500FA9973 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -204,7 +210,9 @@
 				55BE9A461BDA016500FA9973 /* Main.storyboard in Resources */,
 				55BE9A4B1BDA016500FA9973 /* LaunchScreen.xib in Resources */,
 				55BE9A611BDA020900FA9973 /* Chicago White Sox.plist in Resources */,
+				55BE9A6B1BDA38B500FA9973 /* placeholder.jpg in Resources */,
 				55BE9A481BDA016500FA9973 /* Images.xcassets in Resources */,
+				55BE9A711BDA47D000FA9973 /* playerimages in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -423,6 +431,7 @@
 				55BE9A5C1BDA016500FA9973 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		55BE9A5D1BDA016500FA9973 /* Build configuration list for PBXNativeTarget "WhiteSoxMasterDetailTests" */ = {
 			isa = XCConfigurationList;
@@ -431,6 +440,7 @@
 				55BE9A5F1BDA016500FA9973 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
