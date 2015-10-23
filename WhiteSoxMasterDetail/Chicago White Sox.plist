@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Number</key>
+		<string>61</string>
+		<key>First Name</key>
+		<string>Chris</string>
+		<key>Last Name</key>
+		<string>Bassitt</string>
+		<key>Position</key>
+		<string>P</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;5&quot;</string>
+		<key>Weight</key>
+		<string>210</string>
+		<key>DOB</key>
+		<string>Feb 22, 1989</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>54</string>
+		<key>First Name</key>
+		<string>Ronald</string>
+		<key>Last Name</key>
+		<string>Belisario</string>
+		<key>Position</key>
+		<string>P</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;3&quot;</string>
+		<key>Weight</key>
+		<string>240</string>
+		<key>DOB</key>
+		<string>Dec 31, 1982</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>67</string>
+		<key>First Name</key>
+		<string>Scott</string>
+		<key>Last Name</key>
+		<string>Carroll</string>
+		<key>Position</key>
+		<string>P</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;4&quot;</string>
+		<key>Weight</key>
+		<string>215</string>
+		<key>DOB</key>
+		<string>Sep 24, 1984</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>39</string>
+		<key>First Name</key>
+		<string>Maikel</string>
+		<key>Last Name</key>
+		<string>Cleto</string>
+		<key>Position</key>
+		<string>P</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;3&quot;</string>
+		<key>Weight</key>
+		<string>250</string>
+		<key>DOB</key>
+		<string>May 1, 1989</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>50</string>
+		<key>First Name</key>
+		<string>John</string>
+		<key>Last Name</key>
+		<string>Danks</string>
+		<key>Position</key>
+		<string>P</string>
+		<key>Bats</key>
+		<string>L</string>
+		<key>Throws</key>
+		<string>L</string>
+		<key>Height</key>
+		<string>6&apos;1&quot;</string>
+		<key>Weight</key>
+		<string>210</string>
+		<key>DOB</key>
+		<string>Apr 15, 1985</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>NA</string>
+		<key>First Name</key>
+		<string>Raul</string>
+		<key>Last Name</key>
+		<string>Fernandez</string>
+		<key>Position</key>
+		<string>P</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;2&quot;</string>
+		<key>Weight</key>
+		<string>180</string>
+		<key>DOB</key>
+		<string>Jun 22, 1990</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>41</string>
+		<key>First Name</key>
+		<string>Javy</string>
+		<key>Last Name</key>
+		<string>Guerra</string>
+		<key>Position</key>
+		<string>P</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;1&quot;</string>
+		<key>Weight</key>
+		<string>190</string>
+		<key>DOB</key>
+		<string>Oct 31, 1985</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>45</string>
+		<key>First Name</key>
+		<string>Erik</string>
+		<key>Last Name</key>
+		<string>Johnson</string>
+		<key>Position</key>
+		<string>P</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;3&quot;</string>
+		<key>Weight</key>
+		<string>230</string>
+		<key>DOB</key>
+		<string>Dec 30, 1989</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>27</string>
+		<key>First Name</key>
+		<string>Matt</string>
+		<key>Last Name</key>
+		<string>Lindstrom</string>
+		<key>Position</key>
+		<string>P</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;3&quot;</string>
+		<key>Weight</key>
+		<string>215</string>
+		<key>DOB</key>
+		<string>Feb 11, 1980</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>48</string>
+		<key>First Name</key>
+		<string>Hector</string>
+		<key>Last Name</key>
+		<string>Noesi</string>
+		<key>Position</key>
+		<string>P</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;3&quot;</string>
+		<key>Weight</key>
+		<string>205</string>
+		<key>DOB</key>
+		<string>Jan 26, 1987</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>52</string>
+		<key>First Name</key>
+		<string>Jake</string>
+		<key>Last Name</key>
+		<string>Petricka</string>
+		<key>Position</key>
+		<string>P</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;5&quot;</string>
+		<key>Weight</key>
+		<string>205</string>
+		<key>DOB</key>
+		<string>Jun 5, 1988</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>57</string>
+		<key>First Name</key>
+		<string>Zach</string>
+		<key>Last Name</key>
+		<string>Putnam</string>
+		<key>Position</key>
+		<string>P</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;2&quot;</string>
+		<key>Weight</key>
+		<string>225</string>
+		<key>DOB</key>
+		<string>Jul 3, 1987</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>62</string>
+		<key>First Name</key>
+		<string>Jose</string>
+		<key>Last Name</key>
+		<string>Quintana</string>
+		<key>Position</key>
+		<string>P</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>L</string>
+		<key>Height</key>
+		<string>6&apos;1&quot;</string>
+		<key>Weight</key>
+		<string>220</string>
+		<key>DOB</key>
+		<string>Jan 24, 1989</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>64</string>
+		<key>First Name</key>
+		<string>Andre</string>
+		<key>Last Name</key>
+		<string>Rienzo</string>
+		<key>Position</key>
+		<string>P</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;3&quot;</string>
+		<key>Weight</key>
+		<string>190</string>
+		<key>DOB</key>
+		<string>Jul 5, 1988</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>49</string>
+		<key>First Name</key>
+		<string>Chris</string>
+		<key>Last Name</key>
+		<string>Sale</string>
+		<key>Position</key>
+		<string>P</string>
+		<key>Bats</key>
+		<string>L</string>
+		<key>Throws</key>
+		<string>L</string>
+		<key>Height</key>
+		<string>6&apos;6&quot;</string>
+		<key>Weight</key>
+		<string>180</string>
+		<key>DOB</key>
+		<string>Mar 30, 1989</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>68</string>
+		<key>First Name</key>
+		<string>Scott</string>
+		<key>Last Name</key>
+		<string>Snodgress</string>
+		<key>Position</key>
+		<string>P</string>
+		<key>Bats</key>
+		<string>L</string>
+		<key>Throws</key>
+		<string>L</string>
+		<key>Height</key>
+		<string>6&apos;6&quot;</string>
+		<key>Weight</key>
+		<string>225</string>
+		<key>DOB</key>
+		<string>Jun 18, 1987</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>53</string>
+		<key>First Name</key>
+		<string>Eric</string>
+		<key>Last Name</key>
+		<string>Surkamp</string>
+		<key>Position</key>
+		<string>P</string>
+		<key>Bats</key>
+		<string>L</string>
+		<key>Throws</key>
+		<string>L</string>
+		<key>Height</key>
+		<string>6&apos;5&quot;</string>
+		<key>Weight</key>
+		<string>220</string>
+		<key>DOB</key>
+		<string>Jul 16, 1987</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>60</string>
+		<key>First Name</key>
+		<string>Taylor</string>
+		<key>Last Name</key>
+		<string>Thompson</string>
+		<key>Position</key>
+		<string>P</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;5&quot;</string>
+		<key>Weight</key>
+		<string>225</string>
+		<key>DOB</key>
+		<string>Jun 18, 1987</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>40</string>
+		<key>First Name</key>
+		<string>Daniel</string>
+		<key>Last Name</key>
+		<string>Webb</string>
+		<key>Position</key>
+		<string>P</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;3&quot;</string>
+		<key>Weight</key>
+		<string>215</string>
+		<key>DOB</key>
+		<string>Aug 18, 1989</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>21</string>
+		<key>First Name</key>
+		<string>Tyler</string>
+		<key>Last Name</key>
+		<string>Flowers</string>
+		<key>Position</key>
+		<string>P</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;4&quot;</string>
+		<key>Weight</key>
+		<string>245</string>
+		<key>DOB</key>
+		<string>Jan 24, 1986</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>17</string>
+		<key>First Name</key>
+		<string>Adrian</string>
+		<key>Last Name</key>
+		<string>Nieto</string>
+		<key>Position</key>
+		<string>C</string>
+		<key>Bats</key>
+		<string>S</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;0&quot;</string>
+		<key>Weight</key>
+		<string>200</string>
+		<key>DOB</key>
+		<string>Nov 12, 1989</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>36</string>
+		<key>First Name</key>
+		<string>Josh</string>
+		<key>Last Name</key>
+		<string>Phegley</string>
+		<key>Position</key>
+		<string>C</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>5&apos;10&quot;</string>
+		<key>Weight</key>
+		<string>225</string>
+		<key>DOB</key>
+		<string>Feb 12, 1988</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>79</string>
+		<key>First Name</key>
+		<string>Jose</string>
+		<key>Last Name</key>
+		<string>Abreu</string>
+		<key>Position</key>
+		<string>1B</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;3&quot;</string>
+		<key>Weight</key>
+		<string>255</string>
+		<key>DOB</key>
+		<string>Jan 29, 1987</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>22</string>
+		<key>First Name</key>
+		<string>Matt</string>
+		<key>Last Name</key>
+		<string>Davidson</string>
+		<key>Position</key>
+		<string>3B</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;2&quot;</string>
+		<key>Weight</key>
+		<string>225</string>
+		<key>DOB</key>
+		<string>Mar 26, 1991</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>28</string>
+		<key>First Name</key>
+		<string>Leury</string>
+		<key>Last Name</key>
+		<string>Garcia</string>
+		<key>Position</key>
+		<string>2B</string>
+		<key>Bats</key>
+		<string>S</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>5&apos;8&quot;</string>
+		<key>Weight</key>
+		<string>170</string>
+		<key>DOB</key>
+		<string>Mar 18, 1991</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>12</string>
+		<key>First Name</key>
+		<string>Conor</string>
+		<key>Last Name</key>
+		<string>Gillaspie</string>
+		<key>Position</key>
+		<string>3B</string>
+		<key>Bats</key>
+		<string>L</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;1&quot;</string>
+		<key>Weight</key>
+		<string>195</string>
+		<key>DOB</key>
+		<string>Jul 18, 1987</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>14</string>
+		<key>First Name</key>
+		<string>Paul</string>
+		<key>Last Name</key>
+		<string>Konerko</string>
+		<key>Position</key>
+		<string>1B</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;2&quot;</string>
+		<key>Weight</key>
+		<string>220</string>
+		<key>DOB</key>
+		<string>Mar 5, 1976</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>10</string>
+		<key>First Name</key>
+		<string>Alexei</string>
+		<key>Last Name</key>
+		<string>Ramirez</string>
+		<key>Position</key>
+		<string>SS</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;2&quot;</string>
+		<key>Weight</key>
+		<string>180</string>
+		<key>DOB</key>
+		<string>Sep 22, 1981</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>77</string>
+		<key>First Name</key>
+		<string>Carlos</string>
+		<key>Last Name</key>
+		<string>Sanchez</string>
+		<key>Position</key>
+		<string>SS</string>
+		<key>Bats</key>
+		<string>S</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>5&apos;11&quot;</string>
+		<key>Weight</key>
+		<string>195</string>
+		<key>DOB</key>
+		<string>Jun 29, 1992</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>5</string>
+		<key>First Name</key>
+		<string>Marcus</string>
+		<key>Last Name</key>
+		<string>Semien</string>
+		<key>Position</key>
+		<string>SS</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;1&quot;</string>
+		<key>Weight</key>
+		<string>195</string>
+		<key>DOB</key>
+		<string>Sep 17, 1990</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>38</string>
+		<key>First Name</key>
+		<string>Andy</string>
+		<key>Last Name</key>
+		<string>Wilkins</string>
+		<key>Position</key>
+		<string>1B</string>
+		<key>Bats</key>
+		<string>L</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;1&quot;</string>
+		<key>Weight</key>
+		<string>220</string>
+		<key>DOB</key>
+		<string>Sep 13, 1988</string>
+	</dict>
+
+	<dict>
+		<key>Number</key>
+		<string>20</string>
+		<key>First Name</key>
+		<string>Jordan</string>
+		<key>Last Name</key>
+		<string>Danks</string>
+		<key>Position</key>
+		<string>CF</string>
+		<key>Bats</key>
+		<string>L</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;4&quot;</string>
+		<key>Weight</key>
+		<string>215</string>
+		<key>DOB</key>
+		<string>Aug 7, 1986</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>1</string>
+		<key>First Name</key>
+		<string>Adam</string>
+		<key>Last Name</key>
+		<string>Eaton</string>
+		<key>Position</key>
+		<string>CF</string>
+		<key>Bats</key>
+		<string>L</string>
+		<key>Throws</key>
+		<string>L</string>
+		<key>Height</key>
+		<string>5&apos;8&quot;</string>
+		<key>Weight</key>
+		<string>185</string>
+		<key>DOB</key>
+		<string>Dec 6, 1988</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>26</string>
+		<key>First Name</key>
+		<string>Avisail</string>
+		<key>Last Name</key>
+		<string>Garcia</string>
+		<key>Position</key>
+		<string>RF</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;4&quot;</string>
+		<key>Weight</key>
+		<string>240</string>
+		<key>DOB</key>
+		<string>Jun 12, 1991</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>29</string>
+		<key>First Name</key>
+		<string>Jared</string>
+		<key>Last Name</key>
+		<string>Mitchell</string>
+		<key>Position</key>
+		<string>CF</string>
+		<key>Bats</key>
+		<string>L</string>
+		<key>Throws</key>
+		<string>L</string>
+		<key>Height</key>
+		<string>6&apos;0&quot;</string>
+		<key>Weight</key>
+		<string>205</string>
+		<key>DOB</key>
+		<string>Oct 13, 1988</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>25</string>
+		<key>First Name</key>
+		<string>Moises</string>
+		<key>Last Name</key>
+		<string>Sierra</string>
+		<key>Position</key>
+		<string>RF</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;1&quot;</string>
+		<key>Weight</key>
+		<string>220</string>
+		<key>DOB</key>
+		<string>Sep 24, 1988</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>51</string>
+		<key>First Name</key>
+		<string>Michael</string>
+		<key>Last Name</key>
+		<string>Taylor</string>
+		<key>Position</key>
+		<string>RF</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;5&quot;</string>
+		<key>Weight</key>
+		<string>255</string>
+		<key>DOB</key>
+		<string>Dec 19, 1985</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>75</string>
+		<key>First Name</key>
+		<string>Trayce</string>
+		<key>Last Name</key>
+		<string>Thompson</string>
+		<key>Position</key>
+		<string>CF</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>6&apos;3&quot;</string>
+		<key>Weight</key>
+		<string>210</string>
+		<key>DOB</key>
+		<string>Mar 15, 1991</string>
+	</dict>
+	<dict>
+		<key>Number</key>
+		<string>24</string>
+		<key>First Name</key>
+		<string>Dayan</string>
+		<key>Last Name</key>
+		<string>Viciedo</string>
+		<key>Position</key>
+		<string>RF</string>
+		<key>Bats</key>
+		<string>R</string>
+		<key>Throws</key>
+		<string>R</string>
+		<key>Height</key>
+		<string>5&apos;11&quot;</string>
+		<key>Weight</key>
+		<string>240</string>
+		<key>DOB</key>
+		<string>Mar 10, 1989</string>
+	</dict>
+</array>
+</plist>
