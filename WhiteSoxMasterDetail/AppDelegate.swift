@@ -20,12 +20,26 @@ class AppDelegate: UIResponder, UIApplicationDelegate, UISplitViewControllerDele
         let navigationController = splitViewController.viewControllers[splitViewController.viewControllers.count-1] as! UINavigationController
         navigationController.topViewController.navigationItem.leftBarButtonItem = splitViewController.displayModeButtonItem()
         splitViewController.delegate = self
+        
         let path = NSBundle.mainBundle().pathForResource("Chicago White Sox", ofType: "plist")
         let array:[AnyObject] = NSArray(contentsOfFile: path!) as! [AnyObject]
-        let masterController = navigationController.childViewControllers[0] as! MasterViewController
+        let masterNavigationController = splitViewController.viewControllers[0] as! UINavigationController
+        let masterController = masterNavigationController.viewControllers[0] as! MasterViewController
+        
         for dictionary in array{
-            masterController.objects.append()
+            let number=dictionary["Number"] as! String
+            let firstName = dictionary["First Name"] as! String
+            let lastName = dictionary["Last Name"] as! String
+            let position = dictionary["Position"] as! String
+            let bats = dictionary["Bats"] as! String
+            let throws = dictionary["Throws"] as! String
+            let height = dictionary["Height"] as! String
+            let weight = dictionary["Weight"] as! String
+            let DOB = dictionary["DOB"] as! String
+            
+            masterController.objects.append(Player(number: number, firstName: firstName, lastName: lastName, position: position, bats: bats, throws: throws, height: height, weight: weight, DOB: DOB))
         }
+        masterController.objects.sort({$0.lastName<$1.lastName})
         return true
     }
 

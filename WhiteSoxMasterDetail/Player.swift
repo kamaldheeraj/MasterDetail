@@ -8,17 +8,17 @@
 
 import Foundation
 class Player{
-    var number=0
+    var number=""
     var firstName=""
     var lastName=""
     var position=""
     var bats=""
     var throws=""
     var height=""
-    var weight=0
+    var weight=""
     var DOB=""
     
-    init (number:Int, firstName:String, lastName:String, position:String, bats:String, throws:String, height:String, weight:Int, DOB:String){
+    init (number:String, firstName:String, lastName:String, position:String, bats:String, throws:String, height:String, weight:String, DOB:String){
         self.number=number
         self.firstName=firstName
         self.lastName=lastName
