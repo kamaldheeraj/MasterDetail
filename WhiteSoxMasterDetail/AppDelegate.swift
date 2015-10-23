@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  WhiteSoxMasterDetail
 //
-//  Created by Navya Rayala on 10/23/15.
+//  Created by Kamal Dandamudi on 10/23/15.
 //  Copyright (c) 2015 Kamal Dandamudi. All rights reserved.
 //
 
